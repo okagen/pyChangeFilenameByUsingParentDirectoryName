@@ -2,7 +2,6 @@
 
 The directory structure and file names of a path are below before changing the file names.
 ~~~
-C:.
 +---112
 |   +---3000
 |   |       001.jpeg
@@ -29,7 +28,6 @@ C:.
 
 After changing the file names, the directory structure and file names will be below.
 ~~~
-C:.
 +---112
 |       1123000001.jpeg
 |       1123000002.jpeg
