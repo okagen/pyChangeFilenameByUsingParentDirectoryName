@@ -1,6 +1,6 @@
 # pyChangeFilenameByUsingParentDirectoryName
 
-The directory structure of a path in a drive is below before changing the file names.
+The directory structure and file names of a path are below before changing the file names.
 ~~~
 C:.
 +---112
